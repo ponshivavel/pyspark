@@ -73,3 +73,4 @@ This paper presents a modular, real-time trend analysis dashboard leveraging new
 
 [Add any academic or technical papers referenced]
 <img width="1917" height="1009" alt="Sentiment Analysis" src="https://github.com/user-attachments/assets/044802fa-a432-474f-9adc-ea70e93a5a93" />
+<img width="1899" height="1013" alt="Geographical Sentiment Map" src="https://github.com/user-attachments/assets/72e85579-d186-423b-8e69-014ab96268cd" />
