@@ -66,7 +66,10 @@ This paper presents a modular, real-time trend analysis dashboard leveraging new
 
 9. References
 NewsAPI Documentation: https://newsapi.org/docs
-FastAPI Documentation: https://fastapi.tiangolo.com/
+FastAPI Documentation: https://fastapi.tiangolo.com/<img width="1887" height="912" alt="barchart" src="https://github.com/user-attachments/assets/c2a9d7b8-6e51-42b4-8149-c5bd6e916b18" />
+
 Plotly.js Docs: https://plotly.com/javascript/
-React Docs: https://reactjs.org/
+React Docs: https://reactjs.org/<img width="1917" height="1016" alt="linechart" src="https://github.com/user-attachments/assets/ec7e84fd-9fdd-4434-86a6-130cdbeb3bb1" />
+
 [Add any academic or technical papers referenced]
+<img width="1917" height="1009" alt="Sentiment Analysis" src="https://github.com/user-attachments/assets/044802fa-a432-474f-9adc-ea70e93a5a93" />
